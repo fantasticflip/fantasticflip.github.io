@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "fantasticflip.github.io",
-  "Id": "039d83ce-8d9f-45d5-90e6-6b651ab6c1a9"
-}
